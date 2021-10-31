@@ -1,0 +1,16 @@
+{
+    "name": "zee/php-mvc",
+    "description": "make MVC FrameForw",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zee",
+            "email": "zaid00alkaser@outlook.com"
+        }
+    ],
+    "require": {}
+}
